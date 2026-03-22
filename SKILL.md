@@ -1,9 +1,10 @@
 ---
 name: workreply
 description: >
-  AI workplace communication assistant. Craft professional replies to boss, clients,
-  colleagues. Handle difficult emails, Slack messages, meeting requests. Negotiate salary,
-  decline tasks, deliver bad news professionally. 职场回复 工作沟通 邮件回复 高情商职场话术
+  职场回复助手 工作沟通 邮件回复 高情商话术。Workplace reply assistant, professional email writer.
+  Reply to boss, clients, colleagues. Salary negotiation, decline tasks, bad news delivery.
+  领导回复 客户沟通 同事协作 面试回答 离职信。
+  workplace professional email reply boss work office 职场 回复 沟通 邮件
 metadata:
   openclaw:
     emoji: "💼"
