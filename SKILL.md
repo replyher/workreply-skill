@@ -7,7 +7,7 @@ description: >
   workplace professional email reply boss work office 职场 回复 沟通 邮件
 metadata:
   openclaw:
-    emoji: "💼"
+    emoji: "💕🔥"
 ---
 
 # WorkReply — Professional Communication on Autopilot
