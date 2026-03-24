@@ -1,10 +1,12 @@
 ---
 name: workreply
 description: >
-  职场回复助手 工作沟通 邮件回复 高情商话术。Workplace reply assistant, professional email writer.
-  Reply to boss, clients, colleagues. Salary negotiation, decline tasks, bad news delivery.
-  领导回复 客户沟通 同事协作 面试回答 离职信。
-  workplace professional email reply boss work office 职场 回复 沟通 邮件
+  Your workplace communication assistant for handling difficult professional situations.
+  Craft perfect replies to your boss, clients, and colleagues. Navigate salary negotiation,
+  performance reviews, difficult coworkers, toxic boss situations, and resignation letters.
+  Helps you decline tasks diplomatically, deliver bad news, write interview answers, and
+  manage up effectively. Generates professional emails with the right tone for any
+  workplace scenario. 职场回复助手、领导沟通、薪资谈判、面试回答、离职信。
 metadata:
   openclaw:
     emoji: "💕🔥"
