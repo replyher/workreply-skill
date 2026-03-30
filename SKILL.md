@@ -1,12 +1,11 @@
 ---
 name: workreply
 description: >
-  Your workplace communication assistant for handling difficult professional situations.
-  Craft perfect replies to your boss, clients, and colleagues. Navigate salary negotiation,
-  performance reviews, difficult coworkers, toxic boss situations, and resignation letters.
-  Helps you decline tasks diplomatically, deliver bad news, write interview answers, and
-  manage up effectively. Generates professional emails with the right tone for any
-  workplace scenario. 职场回复助手、领导沟通、薪资谈判、面试回答、离职信。
+  WorkReply is an AI workplace reply coach for professional messages that need the right
+  balance of clarity, diplomacy, and authority. It drafts responses for bosses, coworkers,
+  clients, interviews, salary talks, feedback, conflict, and resignation scenarios,
+  helping people sound calm, strategic, and credible in email, Slack, WeChat, and Teams.
+  职场回复、老板沟通、专业邮件、薪资谈判、离职话术。
 metadata:
   openclaw:
     emoji: "💕🔥"
